@@ -1,0 +1,287 @@
+.main {
+    width: 450px;
+    height: 200px;
+    border-radius: 5px;
+    border: 2px solid rgb(194, 200, 194);
+    position: relative;
+}
+
+.user1, .user2, .user3, .user4, .user5, .user6, .user7, .user8, .user9 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    position: absolute;
+    top:40px
+}
+.user1 {
+    background-color: rgb(255, 64, 140);
+    left: 10px
+}
+.user2 {
+    background-color: rgb(236, 56, 128);
+    left: 40px
+}
+.user3 {
+    background-color: rgb(220, 51, 119);
+    left: 80px;
+}
+.user4 {
+    background-color: rgb(203, 46, 109);
+    left: 120px;
+}
+.user5 {
+    background-color: rgb(184, 41, 98);
+    left: 160px;
+}
+.user6 {
+    background-color: rgb(158, 37, 85);
+    left: 200px;
+}
+.user7 {
+    background-color: rgb(129, 28, 68);
+    left: 240px;
+}
+.user8 {
+    background-color: rgb(106, 23, 56);
+    left: 280px;
+}
+.user9 {
+    background-color: rgb(89, 19, 47);
+    left: 320px;
+}
+
+
+.container{
+    width: 450px;
+    height: 200px;
+    border-radius: 5px;
+    border: 2px solid rgb(194, 200, 194);
+    position: relative;
+}
+.user11, .user22, .user33, .user44, .user55, .user66, .user77, .user88, .user99 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    position: absolute;
+    top:40px
+}
+
+.user11 {
+    background-color: rgb(255, 121, 255);
+    left: 10px
+}
+
+.user22 {
+    background-color: rgb(233, 112, 233);
+    left: 40px
+}
+.user33{
+    background-color: rgb(208, 100, 208);
+    left: 80px;
+}
+.user44{
+    background-color: rgb(181, 87, 181);
+    left: 120px;
+}
+.user55{
+    background-color: rgb(161, 77, 161);
+    left: 160px;
+}
+.user66{
+    background-color: rgb(135, 67, 135);
+    left: 200px;
+}
+.user77{
+    background-color:  rgb(117, 56, 117);
+    left: 240px;
+}
+.user88{
+    background-color:  rgb(100, 49, 100);
+    left: 280px;
+}
+.user99{
+    background-color: rgb(78, 37, 78);
+    left: 320px;
+}
+.new_container{
+    width: 450px;
+    height: 200px;
+    border-radius: 5px;
+    border: 2px solid rgb(194, 200, 194);
+    position: relative;
+}
+.user111, .user222, .user333, .user444, .user555, .user666, .user777, .user888, .user999 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    position: absolute;
+    top:40px
+}
+
+.user111 {
+    background-color: rgb(255, 235, 86);
+    left: 10px
+}
+.user222 {
+    background-color: rgb(228, 211, 77);
+    left: 40px
+}
+.user333{
+    background-color: rgb(202, 187, 69);
+    left: 80px;
+}
+.user444{
+    background-color: rgb(174, 161, 59);
+    left: 120px;
+}
+.user555{
+    background-color: rgb(147, 136, 49);
+    left: 160px;
+}
+.user666{
+    background-color: rgb(117, 108, 40);
+    left: 200px;
+}
+.user777{
+    background-color:  rgb(90, 83, 29);
+    left: 240px;
+}
+.user888{
+    background-color:  rgb(66, 61, 22);
+    left: 280px;
+}
+.user999{
+    background-color: rgb(52, 49, 16);
+    left: 320px;
+}
+
+.u1, .u2, .u3, .u4, .u5, .u6, .u7, .u8, .u9 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    position: absolute;
+    top:40px
+}
+.u1 {
+    background-color: rgb(255, 65, 65);
+    left: 10px
+}
+.u2 {
+    background-color: rgb(225, 60, 60);
+    left: 40px
+}
+.u3 {
+    background-color: rgb(201, 54, 54);
+    left: 80px;
+}
+.u4 {
+    background-color: rgb(172, 46, 46);
+    left: 120px;
+}
+.u5 {
+    background-color: rgb(156, 43, 43);
+    left: 160px;
+}
+.u6 {
+    background-color: rgb(144, 39, 39);
+    left: 200px;
+}
+.u7 {
+    background-color: rgb(116, 31, 31);
+    left: 240px;
+}
+.u8 {
+    background-color: rgb(86, 23, 23);
+    left: 280px;
+}
+.u9 {
+    background-color: rgb(69, 18, 18);
+    left: 320px;
+}
+
+.u11, .u22, .u33, .u44, .u55, .u66, .u77, .u88, .u99 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    position: absolute;
+    top:40px
+}
+.u11 {
+    background-color: rgb(144, 255, 144);
+    left: 10px
+}
+.u22 {
+    background-color: rgb(133, 235, 133);
+    left: 40px
+}
+.u33 {
+    background-color: rgb(121, 215, 121);
+    left: 80px;
+}
+.u44 {
+    background-color: rgb(110, 193, 110);
+    left: 120px;
+}
+.u55 {
+    background-color: rgb(93, 165, 93);
+    left: 160px;
+}
+.u66 {
+    background-color: rgb(80, 141, 80);
+    left: 200px;
+}
+.u77 {
+    background-color: rgb(66, 116, 66);
+    left: 240px;
+}
+.u88 {
+    background-color: rgb(51, 91, 51);
+    left: 280px;
+}
+.u99 {
+    background-color: rgb(35, 62, 35);
+    left: 320px;
+}
+.u111, .u222, .u333, .u444, .u555, .u666, .u777, .u888, .u999 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    position: absolute;
+    top:40px
+}
+.u111 {
+    background-color: rgb(248, 187, 197);
+    left: 10px
+}
+.u222 {
+    background-color: rgb(232, 177, 186);
+    left: 40px
+}
+.u333 {
+    background-color: rgb(218, 166, 175);
+    left: 80px;
+}
+.u444 {
+    background-color: rgb(202, 152, 160);
+    left: 120px;
+}
+.u555 {
+    background-color: rgb(181, 137, 144);
+    left: 160px;
+}
+.u666 {
+    background-color: rgb(161, 123, 129);
+    left: 200px;
+}
+.u777 {
+    background-color: rgb(139, 108, 112);
+    left: 240px;
+}
+.u888 {
+    background-color:  rgb(125, 96, 100);
+    left: 280px;
+}
+.u999 {
+    background-color: rgb(108, 84, 87);
+    left: 320px;
+}
